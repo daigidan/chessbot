@@ -1,5 +1,3 @@
-# Overview
-
 ## Introduction
 
 chessbot is Perl glue for playing chess over IRC with persistent games and stats.
